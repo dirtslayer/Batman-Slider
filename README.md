@@ -16,3 +16,5 @@ Use up,down,left,right. Swipe controls are not supported yet.
 ## Get the Project Files
 
 [Download ZIP](./Batman%20Slider.zip)
+
+[Github repo](https://github.com/dirtslayer/Batman-Slider)
