@@ -7,7 +7,7 @@ Use up,down,left,right. Swipe controls are not supported yet.
 
 ## Play the game
 
-[Play on the web](./Batman%20Slider.html)
+[Play on the web](https://dirtslayer.github.io/Batman-Slider/Batman%20Slider.html)
 
 [Download Windows EXE](./Batman%20Slider.exe)
 
