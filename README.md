@@ -12,3 +12,7 @@ Use up,down,left,right. Swipe controls are not supported yet.
 [Download Windows EXE](./Batman Slider.exe)
 
 [Download Android APK](./Batman Slider.apk)
+
+## Get the Project Files
+
+[Download ZIP](./Batman Slider.zip)
