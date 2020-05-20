@@ -7,12 +7,12 @@ Use up,down,left,right. Swipe controls are not supported yet.
 
 ## Play the game
 
-[Play on the web]('./Batman Slider.html')
+[Play on the web](./Batman%20Slider.html)
 
-[Download Windows EXE]('./Batman Slider.exe')
+[Download Windows EXE](./Batman%20Slider.exe)
 
-[Download Android APK]('./Batman Slider.apk')
+[Download Android APK](./Batman%20Slider.apk)
 
 ## Get the Project Files
 
-[Download ZIP]('./Batman Slider.zip')
+[Download ZIP](./Batman%20Slider.zip)
