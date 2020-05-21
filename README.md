@@ -2,8 +2,8 @@
 
 This is a beginner project using Godot. 
 
-This is a recreation of a favorite childhood toy. You must slide the tiles to scramble or form the picture. 
-Use up,down,left,right. Swipe controls are not supported yet.
+This is a recreation of a favorite childhood toy - slide the tiles to scramble or form the picture. 
+Controls - asdw, up,down,left,right, touch or click tile next to empty spot.
 
 ## Play the game
 
