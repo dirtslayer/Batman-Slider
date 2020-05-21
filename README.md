@@ -1,5 +1,8 @@
 # Batman Slider
 
+![Batman Slider Screenshot](./batman-slider-screenshot.png "Screenshot")
+
+
 This is a beginner project using Godot. 
 
 This is a recreation of a favorite childhood toy - slide the tiles to scramble or form the picture. 
