@@ -7,15 +7,13 @@ Use up,down,left,right. Swipe controls are not supported yet.
 
 ## Play the game
 
-[Play on the web](https://dirtslayer.github.io/Batman-Slider/Batman%20Slider.html)
+[Play on the web](https://dirtslayer.github.io/Batman-Slider/exports/Batman%20Slider.html)
 
-[Download Windows EXE](./Batman%20Slider.exe)
-[Download Resources for EXE as PCK](./Batman%20Slider.pck)
+[Download Windows EXE](./exports/Batman%20Slider.exe)
+[Download Resources for EXE as PCK](./exports/Batman%20Slider.pck)
 
-[Download Android APK](./Batman%20Slider.apk)
+[Download Android APK](./exports/Batman%20Slider.apk)
 
 ## Get the Project Files
-
-[Download ZIP](./Batman%20Slider.zip)
 
 [Github repo](https://github.com/dirtslayer/Batman-Slider)
