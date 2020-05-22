@@ -20,3 +20,7 @@ Controls - asdw, up,down,left,right, touch or click tile next to empty spot.
 ## Get the Project Files
 
 [Github repo](https://github.com/dirtslayer/Batman-Slider)
+
+## Support Developers Continued Learning
+
+<iframe frameborder="0" src="https://itch.io/embed/650970" width="552" height="167"><a href="https://dirtslayer.itch.io/batman-slider">Batman Slider by Darrell</a></iframe>
